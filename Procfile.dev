@@ -1,0 +1,2 @@
+web: django runserver
+sass: npx sass --watch assets/scss/styles.scss static/css/styles.css

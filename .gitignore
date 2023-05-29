@@ -1,0 +1,42 @@
+# Byte-compiled / optimized Python files
+*.pyc
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Virtual environments
+venv/
+env/
+kape/
+*.env
+
+# Django generated files
+*.log
+db.sqlite3
+
+# Visual Studio Code workspace
+*.code-workspace
+
+# macOS files
+.DS_Store
+
+# Editor-specific files
+.idea/
+.vscode/
+
+# Compiled files
+*.class
+
+# Compiled Java build files
+*.jar
+
+# Compiled Python files
+*.pyo
